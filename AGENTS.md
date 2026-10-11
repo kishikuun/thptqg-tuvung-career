@@ -48,14 +48,11 @@ thptqg-tuvung-career/
 │       ├── career.md   # Reference Markdown file
 │       ├── environment.js # Topic 2: Environment & Green Energy
 │       └── environment.md # Reference Markdown file
-├── js/
-│   ├── parser.js       # Markdown & Frontmatter parser -> structured JS objects
-│   ├── data.js         # Multi-topic registry & active topic state manager
-│   ├── app.js          # Core application logic (6 study modes, Web Audio, Web Speech)
-│   └── studio.js       # Teacher Vocab Studio logic (fuzzy matching & file generator)
-└── tasks/
-    ├── plan.md         # Master implementation roadmap
-    └── todo.md         # Task completion checklist
+└── js/
+    ├── parser.js       # Markdown & Frontmatter parser -> structured JS objects
+    ├── data.js         # Multi-topic registry & active topic state manager
+    ├── app.js          # Core application logic (6 study modes, Web Audio, Web Speech)
+    └── studio.js       # Teacher Vocab Studio logic (fuzzy matching & file generator)
 ```
 
 ---
